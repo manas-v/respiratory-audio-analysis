@@ -62,10 +62,7 @@ The classifiers yielded the following performances
 
 ![image](https://user-images.githubusercontent.com/59551550/149991595-47687123-d7a4-4845-afa9-60dbce3cda5b.png)
 
-Logistic Regression: 99.15254237288136
-
-Decision Tree: 100.0
-
-SVM: 98.58757062146893
-
-Neural Network: 98.87005686759949
+1. Logistic Regression: 99.15254237288136
+2. Decision Tree: 100.0
+3. SVM: 98.58757062146893
+4. Neural Network: 98.87005686759949
